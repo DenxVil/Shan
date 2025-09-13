@@ -1,0 +1,10 @@
+# Node dependencies
+/node_modules
+
+# API Keys - create a config.local.js to override keys for development
+# and import it in your main script.
+*.local.js
+
+# Build output
+/dist
+/build

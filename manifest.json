@@ -1,0 +1,21 @@
+{
+  "name": "Shan AI",
+  "short_name": "ShanAI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#4a90e2",
+  "description": "A client-side AI chatbot.",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
